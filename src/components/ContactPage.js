@@ -3,7 +3,7 @@ import React from 'react';
 // Functional Components
 const ContactPage = () => (
     <div>
-        Email Us Below:
+        Email Me Below:
     </div>
 );
 
