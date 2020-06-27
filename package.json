@@ -1,8 +1,8 @@
 {
-  "name": "expensify-app",
+  "name": "portfolio-site",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Beta-23/expensify-app.git",
+  "repository": "https://github.com/Beta-23/portfolio-site.git",
   "author": "Al D",
   "license": "MIT",
   "scripts": {
