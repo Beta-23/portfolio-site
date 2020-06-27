@@ -7,8 +7,9 @@ const PortfolioPage = (props) => {
     <div>
         <h1>My Work</h1>
         <p>Checkout the latest projects:</p>
-        <Link>Projec One</Link> |
-        <Link>Projec Two</Link> |
+        <Link>Project One</Link> |
+        <Link>Project Two</Link> |
+        <Link>Project Three</Link> 
     </div>
 )};
 
