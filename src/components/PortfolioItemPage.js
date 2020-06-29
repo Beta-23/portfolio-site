@@ -1,11 +1,11 @@
 import React from 'react';
 
 // Functional Components
-const PortfolioItemPage = (props) => (
-    <div>
-       <h1>Latest Work:</h1>
-       <p>Project {props.match.params.id}</p>
-    </div>
+const PortfolioItem = (props) => (
+  <div>
+    <h1>Latest Work:</h1>
+    <p>This page is for the item with the id of {props.match.params.id}</p>
+  </div>
 );
 
-export default PortfolioItemPage;
+export default PortfolioItem;
